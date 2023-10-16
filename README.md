@@ -1,6 +1,6 @@
 <div align= >
 
-# <img align=center width=70px src="https://media3.giphy.com/media/321AaGDATXT8dq4MDC/giphy.gif?cid=ecf05e47n0l7s1rnvepwnncprqabq9gvk4tf2tm0p59vgouc&rid=giphy.gif&ct=s"> Image Processing Labs
+# 📸 Image Processing Labs
 
 
 </div>
@@ -16,14 +16,14 @@
     <br> 
 </p>
 
-## <img align= center width=50px height=50px src="https://thumbs.gfycat.com/HeftyDescriptiveChimneyswift-size_restricted.gif"> Table of Contents
+## 📝 Table of Contents
 
 - <a href ="#about"> 📙 Overview</a>
 - <a href ="#contributors"> ✨ Contributors</a>
 - <a href ="#license"> 🔒 License</a>
 <hr style="background-color: #4b4c60"></hr>
 
-## <img align="center"  height =50px src="https://user-images.githubusercontent.com/71986226/154076110-1233d7a8-92c2-4d79-82c1-30e278aa518a.gif"> Overview <a id = "about"></a>
+## 📙 Overview <a id = "about"></a>
 
 <ul>
 <li>
@@ -134,7 +134,7 @@ techniques.</li>
 <hr style="background-color: #4b4c60"></hr>
 
 
-## <img  align="center" width= 70px height =55px src="https://media0.giphy.com/media/Xy702eMOiGGPzk4Zkd/giphy.gif?cid=ecf05e475vmf48k83bvzye3w2m2xl03iyem3tkuw2krpkb7k&rid=giphy.gif&ct=s"> Contributors <a id ="contributors"></a>
+## 👑 Contributors <a id ="contributors"></a>
 
 <table  >
   <tr>
